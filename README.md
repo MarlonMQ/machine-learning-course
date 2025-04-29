@@ -10,7 +10,11 @@ This repository contains various Machine Learning projects completed during the 
    - This project focuses on predicting the survival of passengers on the Titanic using data preprocessing techniques and predictive models, such as logistic regression and decision trees.
 
 2. **Diabetes Analysis**:
+
    - This project analyzes data from diabetes patients to predict the presence of the disease using linear regression, feature selection, and model evaluation techniques.
+
+3. Multiple Linear Regression:
+   - This project applies multiple linear regression to the diabetes dataset, exploring the relationships between various features and the target variable.
 
 As more projects are added, they will cover additional Machine Learning techniques and real-world applications, helping to explore the capabilities and challenges of Machine Learning.
 
